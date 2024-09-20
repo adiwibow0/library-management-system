@@ -6,7 +6,7 @@ class DB(object):
 	"""Initialize mysql database """
 	host = "localhost"
 	user = "root"
-	password = "root"
+	password = ""
 	db = "lms"
 	table = ""
 
