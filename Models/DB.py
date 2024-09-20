@@ -7,10 +7,14 @@ class DB(object):
 	host = "localhost"
 	user = "root"
 <<<<<<< HEAD
+<<<<<<< HEAD
 	password = ''
 =======
 	password = ""
 >>>>>>> 32f3469995594c201b7f3e137358280191a4ad84
+=======
+	password = ""
+>>>>>>> 18ee8547c09bb23805da1e02dce7b83a073eace0
 	db = "lms"
 	table = ""
 
